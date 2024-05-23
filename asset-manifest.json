@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0c5f8e0.css",
+    "main.js": "/static/js/main.a1edb4f4.js",
+    "static/media/roboto-condensed-latin-400-normal.woff2": "/static/media/roboto-condensed-latin-400-normal.dc3ae5ab1518eb2bbce7.woff2",
+    "static/media/roboto-condensed-latin-400-normal.woff": "/static/media/roboto-condensed-latin-400-normal.0483af2c4163b10d94a8.woff",
+    "static/media/roboto-condensed-cyrillic-ext-400-normal.woff2": "/static/media/roboto-condensed-cyrillic-ext-400-normal.e05fcd15276c7bc34581.woff2",
+    "static/media/roboto-condensed-cyrillic-ext-400-normal.woff": "/static/media/roboto-condensed-cyrillic-ext-400-normal.fa2853761c045cf40636.woff",
+    "static/media/roboto-condensed-latin-ext-400-normal.woff2": "/static/media/roboto-condensed-latin-ext-400-normal.d7ca50fb3bf95914c562.woff2",
+    "static/media/roboto-condensed-latin-ext-400-normal.woff": "/static/media/roboto-condensed-latin-ext-400-normal.ad279bafb9733ecd6243.woff",
+    "static/media/roboto-condensed-cyrillic-400-normal.woff2": "/static/media/roboto-condensed-cyrillic-400-normal.13ca2f552621afc3c1d4.woff2",
+    "static/media/poppins-latin-400-normal.woff": "/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/roboto-condensed-cyrillic-400-normal.woff": "/static/media/roboto-condensed-cyrillic-400-normal.f42233e76837f3806d13.woff",
+    "static/media/roboto-condensed-greek-400-normal.woff2": "/static/media/roboto-condensed-greek-400-normal.3ea0bd88c904802128a1.woff2",
+    "static/media/roboto-condensed-vietnamese-400-normal.woff2": "/static/media/roboto-condensed-vietnamese-400-normal.14f809ef27314a784aa2.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/roboto-condensed-greek-400-normal.woff": "/static/media/roboto-condensed-greek-400-normal.b0ce7e2b7e0c999119d0.woff",
+    "static/media/poppins-latin-ext-400-normal.woff": "/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/roboto-condensed-vietnamese-400-normal.woff": "/static/media/roboto-condensed-vietnamese-400-normal.0826bdc41952badedabe.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "static/media/roboto-condensed-greek-ext-400-normal.woff2": "/static/media/roboto-condensed-greek-ext-400-normal.021bc50a98a083320950.woff2",
+    "static/media/roboto-condensed-greek-ext-400-normal.woff": "/static/media/roboto-condensed-greek-ext-400-normal.b6bfc59988197937768c.woff",
+    "index.html": "/index.html",
+    "main.d0c5f8e0.css.map": "/static/css/main.d0c5f8e0.css.map",
+    "main.a1edb4f4.js.map": "/static/js/main.a1edb4f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c5f8e0.css",
+    "static/js/main.a1edb4f4.js"
+  ]
+}
