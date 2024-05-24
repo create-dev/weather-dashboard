@@ -1,4 +1,4 @@
-# Weather Dashboard - coding challenge
+# Weather Dashboard
 
 ## Overview
 
